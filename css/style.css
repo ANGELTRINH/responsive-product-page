@@ -194,12 +194,12 @@ footer {
   .large-grid{
     display: flex;
   }
-}
 
-.grid-1{
+  .grid-1{
   margin-right: 2rem;
-}
+  }
 
-#valentine h1 {
+  #valentine h1 {
   margin-top: 0;
+  }
 }
